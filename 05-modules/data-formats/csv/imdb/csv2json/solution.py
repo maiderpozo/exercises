@@ -2,7 +2,6 @@ import json
 import csv
 import sys
 
-
-data = list(csv.DictReader(sys.stdin))
-
-print(json.dumps(data))
+#with open ("modules.csv", encoding="utf-8-"):
+#data = list(csv.DictReader(sys.stdin))
+#print(json.dumps(data))

@@ -12,3 +12,5 @@ with reference_file('solution.py'):
         testcase(3)
         testcase(-1)
         testcase(-2)
+
+         square(x)
