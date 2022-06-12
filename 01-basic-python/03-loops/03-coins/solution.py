@@ -6,3 +6,5 @@ def coins(one, two, five, goal):
                     return True
 
     return False
+
+print(coins(1,2,5,8));

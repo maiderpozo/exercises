@@ -5,7 +5,6 @@ import json
 
 base_url = 'https://api.genderize.io'
 
-
 parser = argparse.ArgumentParser()
 parser.add_argument('name')
 args = parser.parse_args()

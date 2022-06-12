@@ -4,3 +4,5 @@ def slug(name):
     lname = parts[1:]
 
     return '-'.join(s.lower() for s in lname + [fname])
+
+print(slug("Pepito pepi"))

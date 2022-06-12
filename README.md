@@ -2,14 +2,7 @@
 
 ## About This Course
 
-This course teaches you how to write small scripts that automate tasks.
-For this, we will rely on the Python programming language:
-
-* It is one of the most used programming languages.
-* It is one of the most user-friendly languages out there.
-* A very large number of packages are available, which is essential for scripting.
-
-The focus lies on *getting things done*.
+This coursas done*.
 Your scripts have to produce correct results and it is your responsibility to check your work properly.
 The first series of exercises are accompanied by tests, but with the 'real deal' exercises, that won't be the case anymore.
 You will have to split up the task at hand in smaller pieces, implement helper functions, check them, etc.

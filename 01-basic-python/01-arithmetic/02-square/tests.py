@@ -13,4 +13,4 @@ with reference_file('solution.py'):
         testcase(-1)
         testcase(-2)
 
-         square(x)
+         

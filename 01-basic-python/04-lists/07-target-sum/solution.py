@@ -4,3 +4,6 @@ def target_sum(ns, target):
             if x + y == target:
                 return True
     return False
+
+
+print(target_sum([1, 2, 3, 4], 10))

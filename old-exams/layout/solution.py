@@ -1,7 +1,5 @@
 import sys
 import re
-
-
 data = []
 
 for line in sys.stdin:
